@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bf820e1-4f98-41f7-90e2-bb5ce0500ea0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainLauncher/PiervotBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainLauncher/PiervotBox.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainLauncher/Mainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MainLauncher/PiervotBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4301">
+              <caret line="253" column="75" selection-start-line="253" selection-start-column="75" selection-end-line="253" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setS</find>
+      <find>Player2d</find>
+      <find>display</find>
+      <find>4 5 :</find>
+      <find>alive</find>
+      <find>d</find>
+      <find>1</find>
+      <find>cellco</find>
+      <find>Sys</find>
+      <find>Syste</find>
+      <find>Syst</find>
+      <find>System</find>
+      <find>2</find>
+      <find>999</find>
+      <find>59059</find>
+      <find>59</find>
+      <find>58</find>
+      <find>57</find>
+      <find>59000</find>
+      <find>0</find>
+      <find>ALI</find>
+      <find>sieze</find>
+      <find>sie</find>
+      <find>aliv</find>
+      <find>ali</find>
+      <find>elec</find>
+      <find>mouse_x</find>
+      <find>#</find>
+      <find>size</find>
+      <find>game of</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docs/Cell/Coords/Coords2D.html" />
+        <option value="$PROJECT_DIR$/docs/Cell/States/CellState.html" />
+        <option value="$PROJECT_DIR$/docs/Cell/States/AntState.html" />
+        <option value="$PROJECT_DIR$/docs/Cell/States/BinaryState.html" />
+        <option value="$PROJECT_DIR$/docs/Cell/States/LangtonCell.html" />
+        <option value="$PROJECT_DIR$/docs/Cell/States/QuadState.html" />
+        <option value="$PROJECT_DIR$/docs/Cell/States/WireElectronState.html" />
+        <option value="$PROJECT_DIR$/docs/CellStateFactory/CellStateFactory.html" />
+        <option value="$PROJECT_DIR$/docs/Neighborhood/CellNeighborhood.html" />
+        <option value="$PROJECT_DIR$/docs/Neighborhood/LangtonPretendedNeighborhood.html" />
+        <option value="$PROJECT_DIR$/docs/Neighborhood/OneDimensionNeighborhood.html" />
+        <option value="$PROJECT_DIR$/docs/Neighborhood/MoorNeighborhood.html" />
+        <option value="$PROJECT_DIR$/docs/Neighborhood/VonNeumanNeighborhood.html" />
+        <option value="$PROJECT_DIR$/docs/MainLauncher/MainerW2.html" />
+        <option value="$PROJECT_DIR$/docs/MainLauncher/MousePosition.html" />
+        <option value="$PROJECT_DIR$/docs/MainLauncher/PiervotBox.html" />
+        <option value="$PROJECT_DIR$/docs/MainLauncher/Mainer.html" />
+        <option value="$PROJECT_DIR$/docs/MainLauncher/Player2D.html" />
+        <option value="$PROJECT_DIR$/docs/MainLauncher/SceneFiller.html" />
+        <option value="$PROJECT_DIR$/src/MainLauncher/SpareMainer.java" />
+        <option value="$PROJECT_DIR$/src/Automata/Automaton.java" />
+        <option value="$PROJECT_DIR$/src/Automata/OneDimension/Automaton1Dim.java" />
+        <option value="$PROJECT_DIR$/src/Automata/OneDimension/Automaton1DimGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/OneDimension/Automaton1DimNonGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/Automaton2Dim.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/GoL/GameOfLife.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/GoL/GameOfLifeGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/GoL/GameOfLifeNonGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/LA/LangtonAnt.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/LA/LangtonAntGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/LA/LangtonAntNonGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/QL/QuadLife.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/QL/QuadLifeGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/QL/QuadLifeNonGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/WW/WireWorld.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/WW/WireWorldGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Automata/TwoDimentions/WW/WireWorldNonGriddy.java" />
+        <option value="$PROJECT_DIR$/src/Cell/Coords/CellCoordinates.java" />
+        <option value="$PROJECT_DIR$/src/Cell/Coords/Coords1D.java" />
+        <option value="$PROJECT_DIR$/src/Cell/Coords/Coords2D.java" />
+        <option value="$PROJECT_DIR$/src/Cell/States/AntState.java" />
+        <option value="$PROJECT_DIR$/src/Cell/States/LangtonCell.java" />
+        <option value="$PROJECT_DIR$/src/MainLauncher/Mainer.java" />
+        <option value="$PROJECT_DIR$/src/MainLauncher/Player2D.java" />
+        <option value="$PROJECT_DIR$/src/MainLauncher/SceneFiller.java" />
+        <option value="$PROJECT_DIR$/src/Neighborhood/CellNeighborhood.java" />
+        <option value="$PROJECT_DIR$/src/Neighborhood/LangtonPretendedNeighborhood.java" />
+        <option value="$PROJECT_DIR$/src/Neighborhood/MoorNeighborhood.java" />
+        <option value="$PROJECT_DIR$/src/Neighborhood/OneDimensionNeighborhood.java" />
+        <option value="$PROJECT_DIR$/src/Neighborhood/VonNeumanNeighborhood.java" />
+        <option value="$PROJECT_DIR$/src/MainLauncher/PiervotBox.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="66" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cellularAutomata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cellularAutomata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cellularAutomata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cellularAutomata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cellularAutomata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cellularAutomata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MainLauncher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cellularAutomata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cellularAutomata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Neighborhood" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MousePosition.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Mainer">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainLauncher.Mainer" />
+      <module name="cellularAutomata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainLauncher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainerW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainLauncher.MainerW2" />
+      <module name="cellularAutomata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainLauncher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpareMainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainLauncher.SpareMainer" />
+      <module name="cellularAutomata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainLauncher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Mainer" />
+      <item itemvalue="Application.MainerW2" />
+      <item itemvalue="Application.SpareMainer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mainer" />
+        <item itemvalue="Application.SpareMainer" />
+        <item itemvalue="Application.MainerW2" />
+        <item itemvalue="Application.MainerW2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bf820e1-4f98-41f7-90e2-bb5ce0500ea0" name="Default" comment="" />
+      <created>1516277376882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516277376882</updated>
+      <workItem from="1565989628098" duration="1729000" />
+    </task>
+    <task id="LOCAL-00001" summary="structure created">
+      <created>1516290418303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516290418303</updated>
+    </task>
+    <task id="LOCAL-00002" summary="structure recreated, 1-dimensional should work">
+      <created>1516461010371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516461010371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="langton ant probably will work">
+      <created>1516553352273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1516553352273</updated>
+    </task>
+    <task id="LOCAL-00004" summary="actually all automata is done">
+      <created>1516637295365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1516637295365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finally it's almost whole the programm and bugs are eating it">
+      <created>1516953776186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1516953776186</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ocenione">
+      <created>1516959455401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1516959455401</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dokumentacja na szybko poprawiona">
+      <created>1517072388897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517072388897</updated>
+    </task>
+    <task id="LOCAL-00008" summary="wyświetla">
+      <created>1521707742116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1521707742117</updated>
+    </task>
+    <task id="LOCAL-00009" summary="game of life and langton's ant finally work">
+      <created>1521835644468</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521835644468</updated>
+    </task>
+    <task id="LOCAL-00010" summary="you can display 1D">
+      <created>1522580389404</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1522580389405</updated>
+    </task>
+    <task id="LOCAL-00011" summary="initial conditions initially done">
+      <created>1522666126132</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1522666126132</updated>
+    </task>
+    <task id="LOCAL-00012" summary="initial conditions are totally done">
+      <created>1522671003755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1522671003755</updated>
+    </task>
+    <task id="LOCAL-00013" summary="one dimensional initial condition works, langton's ant left">
+      <created>1522686623717</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1522686623718</updated>
+    </task>
+    <task id="LOCAL-00014" summary="tribes connected, works">
+      <created>1523192471860</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1523192471860</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1729000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18910742" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Tool Output" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ANTLR Preview" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296355" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49707174" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936608" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50292826" side_tool="true" weight="0.3296355" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="structure created" />
+    <MESSAGE value="structure recreated, 1-dimensional should work" />
+    <MESSAGE value="langton ant probably will work" />
+    <MESSAGE value="actually all automata is done" />
+    <MESSAGE value="finally it's almost whole the programm and bugs are eating it" />
+    <MESSAGE value="ocenione" />
+    <MESSAGE value="dokumentacja na szybko poprawiona" />
+    <MESSAGE value="wyświetla" />
+    <MESSAGE value="game of life and langton's ant finally work" />
+    <MESSAGE value="you can display 1D" />
+    <MESSAGE value="initial conditions initially done" />
+    <MESSAGE value="initial conditions are totally done" />
+    <MESSAGE value="one dimensional initial condition works, langton's ant left" />
+    <MESSAGE value="tribes connected, works" />
+    <option name="LAST_COMMIT_MESSAGE" value="tribes connected, works" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/Cell/States/QuadState.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="148" column="132" selection-start-line="148" selection-start-column="132" selection-end-line="148" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Cell/States/WireElectronState.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="149" column="115" selection-start-line="149" selection-start-column="115" selection-end-line="149" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Neighborhood/CellNeighborhood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="182" column="129" selection-start-line="182" selection-start-column="129" selection-end-line="182" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/CellStateFactory/CellStateFactory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="129" column="4" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Neighborhood/LangtonPretendedNeighborhood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="234" column="115" selection-start-line="234" selection-start-column="115" selection-end-line="234" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Neighborhood/VonNeumanNeighborhood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Neighborhood/MoorNeighborhood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="237" selection-start-line="237" selection-end-line="239" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/MainLauncher/MainerW2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="143" column="56" selection-start-line="143" selection-start-column="56" selection-end-line="143" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/MainLauncher/Mainer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="291" column="58" selection-start-line="291" selection-start-column="58" selection-end-line="291" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/MainLauncher/MousePosition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="211" column="12" selection-start-line="211" selection-start-column="12" selection-end-line="211" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/MainLauncher/PiervotBox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/MainLauncher/Player2D.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4692">
+          <caret line="276" column="110" selection-start-line="276" selection-start-column="110" selection-end-line="276" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Neighborhood/OneDimensionNeighborhood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="237" column="42" selection-start-line="237" selection-start-column="42" selection-end-line="237" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/MainLauncher/SceneFiller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="393" column="61" selection-start-line="393" selection-start-column="61" selection-end-line="393" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainLauncher/MousePosition.java" />
+    <entry file="file://$PROJECT_DIR$/src/Automata/Automaton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/OneDimension/Automaton1Dim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/OneDimension/Automaton1DimGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/Automaton2Dim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/OneDimension/Automaton1DimNonGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/GoL/GameOfLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/GoL/GameOfLifeGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/GoL/GameOfLifeNonGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/LA/LangtonAnt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/LA/LangtonAntGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/LA/LangtonAntNonGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/QL/QuadLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/QL/QuadLifeGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/QL/QuadLifeNonGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/WW/WireWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cell/Coords/CellCoordinates.java" />
+    <entry file="file://$PROJECT_DIR$/src/Cell/Coords/Coords1D.java" />
+    <entry file="file://$PROJECT_DIR$/src/Cell/Coords/Coords2D.java" />
+    <entry file="file://$PROJECT_DIR$/src/Cell/States/AntState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cell/States/BinaryState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cell/States/CellState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cell/States/LangtonCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cell/States/QuadState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cell/States/WireElectronState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/WW/WireWorldGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Automata/TwoDimentions/WW/WireWorldNonGriddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainLauncher/SpareMainer.java" />
+    <entry file="file://$PROJECT_DIR$/src/MainLauncher/Mainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Neighborhood/VonNeumanNeighborhood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Neighborhood/OneDimensionNeighborhood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Neighborhood/MoorNeighborhood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Neighborhood/LangtonPretendedNeighborhood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Neighborhood/CellNeighborhood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainLauncher/SceneFiller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="589" column="42" lean-forward="true" selection-start-line="589" selection-start-column="42" selection-end-line="589" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainLauncher/Player2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4369">
+          <caret line="285" column="5" selection-start-line="285" selection-start-column="5" selection-end-line="285" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainLauncher/PiervotBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4301">
+          <caret line="253" column="75" selection-start-line="253" selection-start-column="75" selection-end-line="253" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cellularAutomata</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

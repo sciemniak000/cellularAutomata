@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Automata"},{"l":"Automata.OneDimension"},{"l":"Automata.TwoDimentions"},{"l":"Automata.TwoDimentions.GoL"},{"l":"Automata.TwoDimentions.LA"},{"l":"Automata.TwoDimentions.QL"},{"l":"Automata.TwoDimentions.WW"},{"l":"Cell.Coords"},{"l":"Cell.States"},{"l":"CellStateFactory"},{"l":"MainLauncher"},{"l":"Neighborhood"}]
